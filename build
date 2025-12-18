@@ -1,0 +1,3 @@
+#!/bin/sh
+cargo psx build
+duckstation -fastboot /home/hlupa/Templates/psx-sdk-rs/examples/psycho-engine/target/mipsel-sony-psx/release/psycho-engine.exe
